@@ -1,0 +1,39 @@
+{
+  "schema_version": "provided-legal-sources/1",
+  "case_as_of": "2026-08-26",
+  "documents": [
+    {
+      "id": "OJ",
+      "title": "Regulation - EU - 2024/1689 - EN - EUR-Lex",
+      "requested_url": "https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng",
+      "final_url": "https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng",
+      "retrieved_at": "2026-09-12T08:13:19.996838+00:00",
+      "authority": "Official Journal legislative text",
+      "file": "original-2024-1689.txt",
+      "bytes": 588568,
+      "sha256": "sha256:32ad92f916892c57c0ef3874aaef0fc9997d2b3d5b6033f9efbac029f1f2addd"
+    },
+    {
+      "id": "AMEND",
+      "title": "Regulation - EU - 2026/1744 - EN - EUR-Lex",
+      "requested_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202601744",
+      "final_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202601744",
+      "retrieved_at": "2026-09-12T08:13:22.747479+00:00",
+      "authority": "Official Journal legislative text",
+      "file": "amendment-2026-1744.txt",
+      "bytes": 149707,
+      "sha256": "sha256:dc8f2eba1425a86427b0818c461f71f4098df40d786fd8ec60411b8fc44de33f"
+    },
+    {
+      "id": "CONSOLIDATED",
+      "title": "EUR-Lex - 02024R1689-20260727 - EN - EUR-Lex",
+      "requested_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02024R1689-20260727",
+      "final_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02024R1689-20260727",
+      "retrieved_at": "2026-09-12T08:13:42.736254+00:00",
+      "authority": "EUR-Lex consolidation expressly has no legal effect; navigation and verification aid backed by both OJ acts.",
+      "file": "consolidated-2026-07-27.txt",
+      "bytes": 391995,
+      "sha256": "sha256:7516c895f403ab799829115dc095b12dbf3c3fcbef55119c7389742558bf5b10"
+    }
+  ]
+}

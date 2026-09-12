@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://gitroll.dev/curriculum/projects/regulatory-compliance/snapshot.schema.json",
+  "$id": "https://gitroll.dev/curriculum/challenges/regulatory-compliance/snapshot.schema.json",
   "title": "Regulatory Compliance Stage Snapshot",
   "type": "object",
   "additionalProperties": true,
