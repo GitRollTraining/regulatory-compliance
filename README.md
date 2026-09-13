@@ -1,6 +1,6 @@
 # Regulatory Change Impact — starter
 
-Read the [formal assignment](https://app.notion.com/p/3da0b700541e8152b6d1c638fd1c34fa?pvs=204), [stakeholder interview](https://work-sim-alpha.catalyte.ai/s/project-b-regulatory-compliance) and the [shared course guide for session capture](https://classroom.google.com/c/ODcyMjA4NTkwNDk2/m/ODc0NzI2NzQzMzQ2/details). The assignment contains the required work, source routes and submission contract.
+Read the [formal assignment](https://private-pecorino-70e.notion.site/Project-B-Regulatory-Change-Impact-Compliance-Actions-Learner-assignment-3da0b700541e8152b6d1c638fd1c34fa?source=copy_link), [stakeholder interview](https://work-sim-alpha.catalyte.ai/s/project-b-regulatory-compliance) and the [shared course guide for session capture](https://classroom.google.com/c/ODcyMjA4NTkwNDk2/m/ODc0NzI2NzQzMzQ2/details). The assignment contains the required work, source routes and submission contract.
 
 ## Start
 
