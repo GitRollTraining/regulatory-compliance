@@ -23,7 +23,7 @@ The starter `inputs/legal/` contains complete structural text of the original Re
 
 Every run loads and verifies this provided baseline and reads current remote company sources. Record a live refresh separately and obtain appropriate version evidence before claiming an update. The normal route must not become blocked merely because an optional remote refresh fails while the provided case-date acts remain intact. A missing/corrupt package is a facilitator defect to repair before the dependent trial. No trainer legal verdict, expected system outcome or solved implementation is supplied.
 
-The POLICY page appends `RC-CONTEXT-2026-09-12-R1` owner-supplied EU operating scope and product/use facts after the unchanged policy. Local author representation: `challenges/regulatory-compliance/materials/legal-review-context.md`. That context distinguishes supplied ordinary facts from the identified AI-005 gap, notice/metadata conflicts and unapproved exception; it does not settle statutory interpretation.
+The POLICY page appends `RC-CONTEXT-2026-09-12-R1` owner-supplied EU operating scope and product/use facts after the unchanged policy. That context distinguishes supplied ordinary facts from the identified AI-005 gap, notice/metadata conflicts and unapproved exception; it does not settle statutory interpretation.
 
 ## Source field dictionary
 
@@ -48,7 +48,3 @@ Dates use ISO 8601. Company record dates are date-only business dates, not midni
 | Official source fields | Preserve title, URL, paragraph/section, retrieval time, version/amendment/date warning, role and captured content. Separate summary/guidance from law and reported timing from operative text. |
 
 Record counts are 8 systems, 10 evidence reports and 8 actions in the authored 2026-08-26 company set. These are authoring case counts, not a fixed-count requirement for every future live run. A changed remote count must be reconciled against the new scoped population, not rejected merely for differing from an old fixture.
-
-## Recorded source-access check
-
-On 12 September 2026 at 04:52:37.441 UTC, the connected author account fetched the Notion policy page. Its reported last edit was 28 August 2026 at 05:48:16.258 UTC. Every nonempty policy line matched the local authored policy exactly; only blank-line formatting differed. This establishes the observed policy content for that connected account. It does not establish anonymous learner access, deployed runtime access or Notion approval/verification (the page reports unverified). The facilitator must still check the assigned learner route before launch.
