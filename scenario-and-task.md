@@ -6,7 +6,7 @@ Interview the stakeholder to understand the work, sources, ownership, escalation
 
 Interview entry: [Compliance and Operations Manager](https://work-sim-alpha.catalyte.ai/s/project-b-regulatory-compliance). The facilitator must verify learner identity, interview recording/export and the assigned submission destination before the assessed interview.
 
-**Interview rule.** You conduct the stakeholder interview yourself, and the questions are yours. Do not connect a coding agent or any other AI to the interview to run, script, or automate it. The interview transcript is assessed together with the code; a project whose interview was run by an agent is not scored.
+**Interview rule.** You conduct the stakeholder interview yourself, and the questions are yours. Do not connect a coding agent or any other AI to the interview to run, script, or automate it. The interview transcript is assessed together with the code; a project whose interview was run by an agent is not scored. This rule applies to human-assessed work. The separate pre-S3 Agent-only authoring trial uses the designer-selected test identity, workspace and submission/capture route; it cannot establish human Ownership or authentic calibration.
 
 Build an Agent Skills-compliant skill named `regulatory-change-impact-brief` with one documented end-to-end command. Keep the provided snapshot contract unchanged. Each run must load and verify the supplied legal baseline, read the current remote company sources, and write a snapshot at every required workflow boundary so the submitted evidence shows how source records became decisions and final drafts.
 
@@ -57,7 +57,7 @@ If authoritative regulatory evidence is unavailable, stage 03 and every dependen
 
 Keep the workflow read-only. Do not expose credentials, alter a source, submit an official response, give final legal advice, activate policy, change an approved deadline, close an incident, or write to a production calendar. Legal and Operations review the package and retain their stated decisions.
 
-Required source links are obtained through the interview. The assessment does not require one programming language, library, or internal architecture.
+The supplied `inputs/source-catalog.md` already lists all nine source entry links and their roles. Use the interview to understand business context, field meaning, uncertainty and approval boundaries; obtaining the listed links does not depend on a particular question. The assessment does not require one programming language, library, or internal architecture.
 
 ## Public evidence and source contract
 
